@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/rajcsingh-git/argotest2.git
     targetRevision: main
-    path: test
+    path: test2
   destination:
     server: https://kubernetes.default.svc
     namespace: testapp2
